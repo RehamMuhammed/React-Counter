@@ -1,0 +1,16 @@
+.counter{
+    color: rgb(171, 106, 174);
+}
+
+.inner-container{
+    border: 3px solid rgb(171, 106, 174);
+    padding: 100px;
+    border-radius: 10px;
+   
+}
+
+.btn{
+    padding: 15px;
+    border-radius: 15px;
+    margin: 5px;
+}
